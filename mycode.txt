@@ -1,7 +1,7 @@
 # This code add two values
 
-# My name is Hunsue Oh
-@
+# My name is Hunsue Kim
+
 
 
 # This line is added in Github.com
