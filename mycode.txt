@@ -1,6 +1,6 @@
 # This code add two values
 
-# My name is Hunsue Lee
+# My name is Hunsue Oh
 @
 
 
